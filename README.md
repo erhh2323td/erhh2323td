@@ -1,25 +1,8 @@
 ### Hi there 👋
 
+
 <div align="center">
- <style>
- @keyframes color-change {
-  0% {
-    color: blue;
-  }
-
-  50% {
-    color: red;
-  }
-
-  100% {
-    color: blue;
-  }
-}
  
- .animation-text {
-  animation: color-change 3s infinite;
-}
-    </style>
     
     <h1 class="animation-text">.dotfiles</h1>
     <p>
