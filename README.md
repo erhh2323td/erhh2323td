@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<head>
 <style>
  @keyframes color-change {
   0% {
@@ -19,7 +19,7 @@
   animation: color-change 3s infinite;
 }
 </style>
-    
+</head>    
 <div align="center">
     <h1 class="animation-text">.dotfiles</h1>
     <p>
